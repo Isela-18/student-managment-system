@@ -17,5 +17,4 @@ Ky projekt u ndërtua për të menaxhuar dhe automatizuar proceset akademike baz
 * **Baza e Të Dhënave:** Oracle Database, SQL, PL/SQL
 * **Mjete:** Oracle SQL Developer
 
-## Pamje nga Aplikacioni (Screenshots)
-*(Këtu mund të shtosh fotografitë e ruajtura nga sistemi yt, duke krijuar një dosje me emrin `screenshots` dhe duke i vendosur linkun këtu)*
+
